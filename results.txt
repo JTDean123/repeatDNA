@@ -1,0 +1,89 @@
+sequence: aaatcc occurences: 2
+sequence: aatcct occurences: 2
+sequence: tggaag occurences: 2
+sequence: ggaaga occurences: 2
+sequence: cagtgc occurences: 2
+sequence: acgatg occurences: 2
+sequence: cgatgc occurences: 2
+sequence: gctttg occurences: 3
+sequence: ttgcga occurences: 2
+sequence: cagcct occurences: 2
+sequence: agcctc occurences: 2
+sequence: gcctcc occurences: 2
+sequence: cctccc occurences: 2
+sequence: ctcccc occurences: 2
+sequence: ggtctg occurences: 2
+sequence: gtctgt occurences: 2
+sequence: tctgtc occurences: 3
+sequence: ctgtcg occurences: 2
+sequence: tgtcgc occurences: 2
+sequence: cgtgct occurences: 2
+sequence: cggtgc occurences: 2
+sequence: gtgctt occurences: 2
+sequence: ccaacg occurences: 2
+sequence: agcggc occurences: 2
+sequence: ctcaac occurences: 2
+sequence: tcaacg occurences: 2
+sequence: caacga occurences: 4
+sequence: aacgac occurences: 2
+sequence: ctttga occurences: 2
+sequence: tttgat occurences: 2
+sequence: ttgatc occurences: 2
+sequence: aaacca occurences: 2
+sequence: ctctac occurences: 2
+sequence: gccaag occurences: 2
+sequence: ccaagc occurences: 2
+sequence: aacgat occurences: 2
+sequence: cagcga occurences: 2
+sequence: agcgac occurences: 2
+sequence: tgcagc occurences: 2
+sequence: gcagcg occurences: 2
+sequence: gcgact occurences: 2
+sequence: tcagtg occurences: 2
+sequence: agtggg occurences: 2
+sequence: gtgggg occurences: 2
+sequence: ggggat occurences: 2
+sequence: ccgatg occurences: 2
+sequence: gatgaa occurences: 2
+sequence: tcctga occurences: 2
+sequence: tacaac occurences: 2
+sequence: gtttgc occurences: 2
+
+total 6 nt repeat occurences: 222
+
+sequence: aaatcct occurences: 2
+sequence: tggaaga occurences: 2
+sequence: acgatgc occurences: 2
+sequence: cagcctc occurences: 2
+sequence: gcctccc occurences: 2
+sequence: cctcccc occurences: 2
+sequence: gtctgtc occurences: 2
+sequence: tctgtcg occurences: 2
+sequence: ctgtcgc occurences: 2
+sequence: ctcaacg occurences: 2
+sequence: tcaacga occurences: 2
+sequence: caacgac occurences: 2
+sequence: ctttgat occurences: 2
+sequence: tttgatc occurences: 2
+sequence: caacgat occurences: 2
+sequence: cagcgac occurences: 2
+sequence: tgcagcg occurences: 2
+sequence: agtgggg occurences: 2
+
+total 7 nt repeat occurences: 72
+
+sequence: gcctcccc occurences: 2
+sequence: gtctgtcg occurences: 2
+sequence: tctgtcgc occurences: 2
+sequence: ctcaacga occurences: 2
+sequence: ctttgatc occurences: 2
+
+total 8 nt repeat occurences: 20
+
+sequence: gtctgtcgc occurences: 2
+
+total 9 nt repeat occurences: 4
+
+
+total 10 nt repeat occurences: 0
+
